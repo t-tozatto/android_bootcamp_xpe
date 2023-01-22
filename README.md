@@ -1,2 +1,2 @@
-# android_bootcamp_xpe
-Android/Kotlin project for XPE bootcamp
+# Android Bootcamp in XPE
+Examples made in module 1 classes
